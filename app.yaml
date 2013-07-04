@@ -1,0 +1,4 @@
+--- Your APPID
+appid: 10000
+install: [resin]
+start: $RESIN_START
